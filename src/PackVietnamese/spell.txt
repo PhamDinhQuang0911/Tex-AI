@@ -1,0 +1,2 @@
+vi,VN,vi_VN,Vietnamese,vi_VN.zip
+Link on Mac: ~/Library/Spelling/

@@ -1,0 +1,35 @@
+Không được xoá dòng này<<<version=3>>>
+bbt||báº£ng biáº¿n thiÃªn
+bdt||báº¥t Ä‘áº³ng thá»©c
+bpt||báº¥t phÆ°Æ¡ng trÃ¬nh
+c/m||chá»©ng minh
+cmr||chá»©ng minh ráº±ng
+dc||Ä‘Æ°á»£c
+dg||Ä‘Æ°á»ng
+dgl||Ä‘Æ°á»£c gá»i lÃ 
+dk||Ä‘iá»u kiá»‡n
+dkxd||Ä‘iá»u kiá»‡n xÃ¡c Ä‘á»‹nh
+dr||Ä‘iá»ƒm
+dt||Ä‘Æ°á»ng tháº³ng
+dtt||Ä‘Æ°á»ng trÃ²n
+dxx||Ä‘á»‘i xá»©ng
+gbpt||giáº£i báº¥t phÆ°Æ¡ng trÃ¬nh
+ghpt||giáº£i há»‡ phÆ°Æ¡ng trÃ¬nh
+gpt||giáº£i phÆ°Æ¡ng trÃ¬nh
+gt||giÃ¡ trá»‹
+hbpt||há»‡ báº¥t phÆ°Æ¡ng trÃ¬nh
+hs||hÃ m sá»‘
+ko||khÃ´ng
+kvck||khi vÃ  chá»‰ khi
+m/f||máº·t pháº³ng
+n0||nghiá»‡m
+pt||phÆ°Æ¡ng trÃ¬nh
+t/m||thoáº£ mÃ£n
+tm||thoáº£ mÃ£n
+trc||trÆ°á»›c
+ts||tham sá»‘
+txd||táº­p xÃ¡c Ä‘á»‹nh
+vecto||vectÆ¡
+vt||vectÆ¡
+xd||xÃ¡c Ä‘á»‹nh
+yc||yÃªu cáº§u

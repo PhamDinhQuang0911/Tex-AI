@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>bảng biến thiên</string>
+		<key>shortcut</key>
+		<string>bbt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>bất đẳng thức</string>
+		<key>shortcut</key>
+		<string>bdt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>bất phương trình</string>
+		<key>shortcut</key>
+		<string>bpt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>chứng minh</string>
+		<key>shortcut</key>
+		<string>c/m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>chứng minh rằng</string>
+		<key>shortcut</key>
+		<string>cmr</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>được</string>
+		<key>shortcut</key>
+		<string>dc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>đường</string>
+		<key>shortcut</key>
+		<string>dg</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>được gọi là</string>
+		<key>shortcut</key>
+		<string>dgl</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>điều kiện</string>
+		<key>shortcut</key>
+		<string>dk</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>điều kiện xác định</string>
+		<key>shortcut</key>
+		<string>dkxd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>điểm</string>
+		<key>shortcut</key>
+		<string>dr</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>đường thẳng</string>
+		<key>shortcut</key>
+		<string>dt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>đường tròn</string>
+		<key>shortcut</key>
+		<string>dtt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>đối xứng</string>
+		<key>shortcut</key>
+		<string>dxx</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>giải bất phương trình</string>
+		<key>shortcut</key>
+		<string>gbpt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>giải phương trình</string>
+		<key>shortcut</key>
+		<string>gpt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>giá trị</string>
+		<key>shortcut</key>
+		<string>gt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>hệ bất phương trình</string>
+		<key>shortcut</key>
+		<string>hbpt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>hệ phương trình</string>
+		<key>shortcut</key>
+		<string>hpt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>hàm số</string>
+		<key>shortcut</key>
+		<string>hs</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>không</string>
+		<key>shortcut</key>
+		<string>ko</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>khi và chỉ khi</string>
+		<key>shortcut</key>
+		<string>kvck</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>mặt phẳng</string>
+		<key>shortcut</key>
+		<string>m/f</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>nghiệm</string>
+		<key>shortcut</key>
+		<string>n0</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>phương trình</string>
+		<key>shortcut</key>
+		<string>pt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>thoả mãn</string>
+		<key>shortcut</key>
+		<string>t/m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>trước</string>
+		<key>shortcut</key>
+		<string>trc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>tham số</string>
+		<key>shortcut</key>
+		<string>ts</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>tập xác định</string>
+		<key>shortcut</key>
+		<string>txd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>vectơ</string>
+		<key>shortcut</key>
+		<string>vecto</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>vectơ</string>
+		<key>shortcut</key>
+		<string>vt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>xác định</string>
+		<key>shortcut</key>
+		<string>xd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>yêu cầu</string>
+		<key>shortcut</key>
+		<string>yc</string>
+	</dict>
+</array>
+</plist>
